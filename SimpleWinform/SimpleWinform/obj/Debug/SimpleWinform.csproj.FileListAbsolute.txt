@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Feature-2\SimpleWinform\SimpleWinform\bin\Debug\SimpleWinform.exe.config
+C:\Users\Dell\Desktop\Feature-2\SimpleWinform\SimpleWinform\bin\Debug\SimpleWinform.exe
+C:\Users\Dell\Desktop\Feature-2\SimpleWinform\SimpleWinform\bin\Debug\SimpleWinform.pdb
+C:\Users\Dell\Desktop\Feature-2\SimpleWinform\SimpleWinform\obj\Debug\SimpleWinform.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Feature-2\SimpleWinform\SimpleWinform\obj\Debug\SimpleWinform.Login.resources
+C:\Users\Dell\Desktop\Feature-2\SimpleWinform\SimpleWinform\obj\Debug\SimpleWinform.Infor.resources
+C:\Users\Dell\Desktop\Feature-2\SimpleWinform\SimpleWinform\obj\Debug\SimpleWinform.Properties.Resources.resources
+C:\Users\Dell\Desktop\Feature-2\SimpleWinform\SimpleWinform\obj\Debug\SimpleWinform.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Feature-2\SimpleWinform\SimpleWinform\obj\Debug\SimpleWinform.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Feature-2\SimpleWinform\SimpleWinform\obj\Debug\SimpleWinform.exe
+C:\Users\Dell\Desktop\Feature-2\SimpleWinform\SimpleWinform\obj\Debug\SimpleWinform.pdb
